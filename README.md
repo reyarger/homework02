@@ -3,7 +3,9 @@
 
 ## Description 
 
-In this project I created a webpage based on pre-made images. 
+In this project I created a responsive portfolio webpage following images that were provided to me (a wireframe). By combining html, css, and bootstrap I was able to put together the final product. 
+
+As a result of the project, the webpage has responsive interaction across various screen sizes. Additionally, the features such as nav bar links allow the user to enter into different sections of the webpage. 
 
 
 ## Table of Contents 
@@ -16,17 +18,17 @@ In this project I created a webpage based on pre-made images.
 
 ## Installation
 
-Click on the following link in order to access completed project:
+Click on the following link in order to access completed project:  https://reyarger.github.io/homework02/
 
 
 ## Usage 
 
-
+In order to interact with the webpage, first visit it by following the link below:  https://reyarger.github.io/homework02/ . Next, you will select the Portfolio button on the navigation bar to see various page information. 
 
 
 ## Credits
 
-Trilogy Education Services - Original CSS and HTML Code 
+Trilogy Education Services - Original images for webpage portfolio creation.
 
 
 ## License
