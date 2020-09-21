@@ -8,7 +8,7 @@ body {
     margin-bottom: 20px;
     margin-left: 50px;
     background-color:#ffff;
-    height: 500px;
+    height: 80%;
     vertical-align:center;
  }
  .navbar-brand {
@@ -18,21 +18,24 @@ body {
 }
 
 .img{
+    float:left;
     width: 100%;
     height: auto;
 }
 
-.p{
+ p{
     margin: 20px;
-    text-align: center;
+    text-align: left;
     vertical-align:center;
     float:left;
+    font-size: 18px;
 }
 .row{
     height: 1000px;
 }
 .h1{
     color: rgb(22, 185, 185);
+    margin-bottom: 5%;
 }
 
 
